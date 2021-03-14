@@ -2,7 +2,7 @@
 
 I am data engineer and backend developer based in Stockholm, Sweden.
 
-What inspires me currently is looking into application of deep learning and developing smart solutions. I am also interested in company culture: how it works, what helps building it and what makes it deteriorate.
+What inspires me currently is application of deep learning and developing smart solutions. I am also interested in company culture: how it works, what helps building it and what makes it deteriorate.
 
 - 💻 Working as Team Lead and data engineer at Flowbox.
 - 🌱 Currently learning ML, Deep Learning, Tensorflow, AWS data solutions.
