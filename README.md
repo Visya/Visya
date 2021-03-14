@@ -10,7 +10,7 @@ What inspires me currently is looking into application of deep learning and deve
 
 ### Blogposts and tutorials:
 - [How to import existing AWS resources into CDK stack](https://medium.com/@visya/how-to-import-existing-aws-resources-into-cdk-stack-f1cea491e9)
-- [Check out an managed Airflow on AWS setup example](https://github.com/Visya/aws-managed-airflow-deployment)
+- [Check out a managed Airflow on AWS setup example](https://github.com/Visya/aws-managed-airflow-deployment)
 
 
 ### Connect with me
