@@ -6,7 +6,7 @@ What inspires me currently is the application of deep learning and developing sm
 
 Open Source is another thing I feel passionate about, I'm an Apache Airflow contributor and I am excited to see what is waiting for me next.
 
-- 💻 &nbsp; Working as a Team Lead and data engineer at Flowbox.
+- 💻 &nbsp; Working as a Data Engineer at Epidemic Sound.
 - 🌱 &nbsp; Currently learning ML, Deep Learning, Tensorflow, AWS data solutions.
 - 💬 &nbsp; Ask me about infrastructure as code on AWS, AWS CDK, CloudFormation, Airflow.
 
