@@ -7,8 +7,8 @@ What inspires me currently is the application of deep learning and developing sm
 Open Source is another thing I feel passionate about, I'm an Apache Airflow contributor and I am excited to see what is waiting for me next.
 
 - 💻 &nbsp; Working as a Data Engineer at Epidemic Sound.
-- 🌱 &nbsp; Currently learning ML, Deep Learning, Tensorflow, AWS data solutions.
-- 💬 &nbsp; Ask me about infrastructure as code on AWS, AWS CDK, CloudFormation, Airflow.
+- 🌱 &nbsp; Currently learning ML, Deep Learning, Tensorflow, Google Cloud data solutions.
+- 💬 &nbsp; Ask me about infrastructure as code on AWS, AWS CDK, CloudFormation, Airflow, dbt.
 
 ### Blog posts and tutorials:
 - [How to import existing AWS resources into CDK stack](https://medium.com/@visya/how-to-import-existing-aws-resources-into-cdk-stack-f1cea491e9)
