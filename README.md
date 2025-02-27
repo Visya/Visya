@@ -6,7 +6,7 @@ What inspires me currently is the application of deep learning and developing sm
 
 Open Source is another thing I feel passionate about, I'm an Apache Airflow contributor and I am excited to see what is waiting for me next.
 
-- 💻 &nbsp; Working as a Data Engineer at Epidemic Sound.
+- 💻 &nbsp; Working as a Senior Data Engineer at Mentimeter.
 - 🌱 &nbsp; Currently learning ML, Deep Learning, Tensorflow, Google Cloud data solutions.
 - 💬 &nbsp; Ask me about infrastructure as code on AWS, AWS CDK, CloudFormation, Airflow, dbt.
 
